@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    text-align: center;
+    padding: 10px;
+}
+
+#header, p {
+    padding-top: 5px;
+}
+
+figure {
+    display: block;
+    
+}
+#img-div {
+    f
+}
